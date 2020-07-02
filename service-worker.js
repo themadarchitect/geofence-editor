@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/geofence-editor/precache-manifest.145fdad5456c64688330cbb2f98b7f3c.js"
+  "/geofence-editor/precache-manifest.7cf0509522c3e862e4449a9ee3686447.js"
 );
 
 self.addEventListener('message', (event) => {
