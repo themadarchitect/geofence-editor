@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geofence-editor/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/geofence-editor/static/js/main.0501e7b8.chunk.js",
+    "main.js.map": "/geofence-editor/static/js/main.0501e7b8.chunk.js.map",
+    "runtime-main.js": "/geofence-editor/static/js/runtime-main.7451cebc.js",
+    "runtime-main.js.map": "/geofence-editor/static/js/runtime-main.7451cebc.js.map",
+    "static/js/2.28c4d9d2.chunk.js": "/geofence-editor/static/js/2.28c4d9d2.chunk.js",
+    "static/js/2.28c4d9d2.chunk.js.map": "/geofence-editor/static/js/2.28c4d9d2.chunk.js.map",
+    "index.html": "/geofence-editor/index.html",
+    "precache-manifest.b06fb624f8446cbfa6f3acb28be52072.js": "/geofence-editor/precache-manifest.b06fb624f8446cbfa6f3acb28be52072.js",
+    "service-worker.js": "/geofence-editor/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/geofence-editor/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.28c4d9d2.chunk.js.LICENSE.txt": "/geofence-editor/static/js/2.28c4d9d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7451cebc.js",
+    "static/js/2.28c4d9d2.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.0501e7b8.chunk.js"
+  ]
+}
